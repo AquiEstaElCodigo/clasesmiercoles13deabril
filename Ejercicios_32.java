@@ -447,7 +447,7 @@ public class Ejercicios_32
         
         String[][] phi = new String[][]
                 
-                        {{"Socrátes","Táles de Mileto"},
+                        {{"Sócrates","Táles de Mileto"},
             
                                     {"Arquímedes","Pitágoras"}};
         
@@ -479,7 +479,7 @@ public class Ejercicios_32
         
         String[][] phi = new String[][]
                 
-                        {{"Socrátes","Táles de Mileto"},
+                        {{"Sócrates","Táles de Mileto"},
             
                              {"Arquímedes","Pitágoras"}};
         
@@ -510,7 +510,7 @@ public class Ejercicios_32
         
         String[][] mtrz = new String[][]
                         
-                            {{"Socrátes","Táles de Mileto"},
+                            {{"Sócrates","Táles de Mileto"},
             
                                     {"Arquímedes","Pitágoras"}};
         
